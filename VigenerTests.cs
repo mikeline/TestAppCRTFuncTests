@@ -1,6 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
-using TestTaskCRT;
+using TestTaskCRT.Encryption;
+
 
 
 namespace TestAppCRTFuncTests

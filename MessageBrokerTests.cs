@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.IO;
-using TestTaskCRT;
+using TestTaskCRT.MessageBroker;
 
 namespace TestAppCRTFuncTests
 {
